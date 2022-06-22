@@ -1,0 +1,14 @@
+﻿  proga.cpp
+D:\Учёба\Программная инженерия(Наркевич)\лабы\лаба 12\proga\proga\proga.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Учёба\Программная инженерия(Наркевич)\лабы\лаба 12\proga\proga\proga.cpp(47,9): warning C4309: =: усечение константного значения
+D:\Учёба\Программная инженерия(Наркевич)\лабы\лаба 12\proga\proga\proga.cpp(49,9): warning C4309: =: усечение константного значения
+D:\Учёба\Программная инженерия(Наркевич)\лабы\лаба 12\proga\proga\proga.cpp(51,9): warning C4309: =: усечение константного значения
+D:\Учёба\Программная инженерия(Наркевич)\лабы\лаба 12\proga\proga\proga.cpp(53,9): warning C4309: =: усечение константного значения
+D:\Учёба\Программная инженерия(Наркевич)\лабы\лаба 12\proga\proga\proga.cpp(55,9): warning C4309: =: усечение константного значения
+D:\Учёба\Программная инженерия(Наркевич)\лабы\лаба 12\proga\proga\proga.cpp(57,9): warning C4309: =: усечение константного значения
+  Создание кода
+  1 of 12 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  proga.vcxproj -> D:\Учёба\Программная инженерия(Наркевич)\лабы\лаба 12\proga\Release\proga.exe

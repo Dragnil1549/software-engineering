@@ -1,0 +1,4 @@
+﻿  l8.cpp
+l8.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl getSum(int,int)" (?getSum@@YAHHH@Z) в функции _main.
+l8.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl getMul(int,int)" (?getMul@@YAHHH@Z) в функции _main.
+D:\Учёба\Программная инженерия(Наркевич)\лабы\лаба 8\l8\Debug\l8.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

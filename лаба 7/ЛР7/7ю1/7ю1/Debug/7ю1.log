@@ -1,0 +1,29 @@
+﻿Сборка начата 30.11.2021 15:41:07.
+Уровень детализации журнала: Normal.     1>Проект "E:\ЛР по ОПИ\ЛР7\7ю1\7ю1\7ю1.vcxproj" в узле 2 (целевые объекты Build).
+     1>PrepareForBuild:
+         Создание каталога "E:\ЛР по ОПИ\ЛР7\7ю1\Debug\".
+         Создание каталога "Debug\7.1.tlog\".
+       InitializeBuildStatus:
+         Создание "Debug\7.1.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         E:\VS\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt 7.1.cpp
+         7.1.cpp
+     1>E:\ЛР по ОПИ\ЛР7\7ю1\7ю1\7.1.cpp(80,9): warning C4551: в вызове функции отсутствует список аргументов
+       Link:
+         E:\VS\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\ЛР по ОПИ\ЛР7\7ю1\Debug\7.1.exe" /INCREMENTAL /ILK:"Debug\7.1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\ЛР по ОПИ\ЛР7\7ю1\Debug\7.1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\ЛР по ОПИ\ЛР7\7ю1\Debug\7.1.lib" /MACHINE:X86 Debug\7.1.obj
+         7ю1.vcxproj -> E:\ЛР по ОПИ\ЛР7\7ю1\Debug\7.1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\7.1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\7.1.tlog\7.1.lastbuildstate".
+     1>Сборка проекта "E:\ЛР по ОПИ\ЛР7\7ю1\7ю1\7ю1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "E:\ЛР по ОПИ\ЛР7\7ю1\7ю1\7ю1.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         E:\ЛР по ОПИ\ЛР7\7ю1\7ю1\7.1.cpp(80,9): warning C4551: в вызове функции отсутствует список аргументов
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:03.41
